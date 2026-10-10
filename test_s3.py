@@ -13,7 +13,8 @@ def upload_csv_to_s3(bucket_name, object_key):
     s3_client = boto3.client('s3', region_name='us-east-1')  # Change region if needed
 
     # Create CSV data in memory using StringIO
-    csv_buffer = io.StringIO()
+    csv_buffer = io.StringIO() 
+    
     writer = csv.writer(csv_buffer)
 
     # Write header row
