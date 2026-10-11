@@ -2,6 +2,8 @@ import boto3
 import csv
 import io
 
+x = 3
+
 def upload_csv_to_s3(bucket_name, object_key):
     """
     Create a small CSV in memory and upload it to S3.
@@ -14,7 +16,7 @@ def upload_csv_to_s3(bucket_name, object_key):
 
     # Create CSV data in memory using StringIO
     csv_buffer = io.StringIO() 
-    
+
     writer = csv.writer(csv_buffer)
 
     # Write header row
@@ -44,5 +46,7 @@ if __name__ == "__main__":
     # Replace these with your real bucket name and desired object key
     my_bucket = "lzbucket0226"
     my_object_key = "sample-data/sample.csv"
+
+
 
     upload_csv_to_s3(my_bucket, my_object_key)
