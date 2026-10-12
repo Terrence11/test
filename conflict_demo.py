@@ -1,1 +1,1 @@
-MODEL = "gpt-base"
+MODEL = "gpt-logging"
