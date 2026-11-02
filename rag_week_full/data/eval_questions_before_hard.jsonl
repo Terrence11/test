@@ -1,0 +1,17 @@
+
+{"question":"Which company builds passenger aircraft?","expected_source":"boeing.md"}
+{"question":"Which company provides cloud computing services?","expected_source":"microsoft.md"}
+{"question":"Which business specializes in parcel delivery?","expected_source":"fedex.md"}
+{"question":"What does NAICS 336411 represent?","expected_source":"naics_guide.md"}
+{"question":"What does NAICS 492110 represent?","expected_source":"naics_guide.md"}
+{"question":"Why might a company's facilities have different NAICS codes?","expected_source":"naics_guide.md"}
+{"question":"Does every Microsoft facility belong to software development?","expected_source":"microsoft.md"}
+{"question":"What determines the NAICS code for a specific establishment?","expected_source":"naics_guide.md"}
+{"question":"What is the difference between a courier operation and a distribution center?","expected_source":"logistics_notes.md"}
+{"question":"Does FedEx only operate courier facilities?","expected_source":"fedex.md"}
+{"question":"Which company is associated with both aviation products and manufacturing?","expected_source":"boeing.md"}
+{"question":"Which source explains the difference between company identity and facility activity?","expected_source":"logistics_notes.md"}
+{"question":"Why can't NAICS codes always be assigned based on a company's brand name?","expected_source":"naics_guide.md"}
+{"question":"What services do express delivery businesses provide?","expected_source":"fedex.md"}
+{"question":"Which NAICS code is linked to custom computer programming?","expected_source":"naics_guide.md"}
+{"question":"How do parcel sorting and transportation activities differ?","expected_source":"logistics_notes.md"}
