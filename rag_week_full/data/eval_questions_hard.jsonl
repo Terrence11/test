@@ -1,0 +1,20 @@
+{"question": "Which training facility assembles the 737 rather than the A320?", "expected_source": "aerospace_737.md"}
+{"question": "Which training facility builds A320 family airplanes, not the 737?", "expected_source": "aerospace_a320.md"}
+{"question": "Which aerospace site repairs existing aircraft without building new planes?", "expected_source": "aerospace_repair.md"}
+{"question": "Which aviation supplier produces fasteners rather than whole aircraft?", "expected_source": "aerospace_parts.md"}
+{"question": "Which courier station has purple-and-orange vans for doorstep deliveries?", "expected_source": "courier_purple.md"}
+{"question": "Which courier service uses brown vans in the training notes?", "expected_source": "courier_brown.md"}
+{"question": "Which logistics site uses conveyors to transfer parcels but never delivers to homes?", "expected_source": "courier_sorting.md"}
+{"question": "Which logistics facility keeps retail stock for weeks and dispatches pallets?", "expected_source": "warehouse_storage.md"}
+{"question": "Which operation picks and packs online orders for collection by carriers?", "expected_source": "warehouse_fulfillment.md"}
+{"question": "Which provider operates Azure virtual machines and hosted databases?", "expected_source": "cloud_azure.md"}
+{"question": "Which platform runs the S3 object-storage service?", "expected_source": "cloud_aws.md"}
+{"question": "Which firm writes bespoke client software rather than offering a cloud platform?", "expected_source": "software_consulting.md"}
+{"question": "What guidance contrasts NAICS 336411 aircraft manufacturing with repairing airplanes?", "expected_source": "naics_aircraft_vs_repair.md"}
+{"question": "Which guide warns that storing inventory is not the same as NAICS 492110 courier delivery?", "expected_source": "naics_courier_vs_storage.md"}
+{"question": "Which document says establishments of the same parent can have different principal activities?", "expected_source": "naics_facility_principle.md"}
+{"question": "Which transport site handles airport ramps rather than road tractors?", "expected_source": "ops_air_vs_ground.md"}
+{"question": "What operation inspects returned products for resale or disposal?", "expected_source": "ops_returns.md"}
+{"question": "Which depot holds refrigerated food stock for days without home delivery?", "expected_source": "ops_cold_chain.md"}
+{"question": "Where does the training dataset explicitly contrast Boeing North Assembly with Airbus East Assembly?", "expected_source": "aerospace_a320.md"}
+{"question": "Which training note specifically distinguishes Microsoft Azure from Amazon S3?", "expected_source": "cloud_azure.md"}
