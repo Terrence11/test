@@ -7,7 +7,6 @@ from .core import answer_question
 logging.basicConfig(level=logging.INFO)
 logger=logging.getLogger('raglab')
 app=FastAPI(title='RAG Week 3 API')
-xx = uu
 
 class AskRequest(BaseModel):
     question: str = Field(min_length=3, max_length=1000)
